@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @devdantediaz
-- 👀 I’m interested in .NET stack and development.
-- 🌱 I’m currently expanding my knowledge of developing with Microsoft products and tools. 
+- 👀 I’m interested in the .NET stack and software development.
+- ⚙ I dabble in 3D printing using my Creality K1 SE printer and the Orca Slicer.
+- ☁ I also do web development using Typescript and React. I am a jack of all trades and like to learn. 
 - 📫 Reach me at devdantediaz@gmail.com.
